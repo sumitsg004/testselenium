@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/Selenium/Selenium/libs/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/Selenium/libs/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/Selenium/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/Selenium/libs/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/Selenium/libs/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/Selenium/libs/httpclient-4.5.5.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/Selenium/libs/httpcore-4.4.9.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/Selenium/libs/okhttp-3.10.0.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/Selenium/libs/okio-1.14.1.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/Selenium/client-combined-3.14.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="https://seleniumhq.github.io/selenium/docs/api/java/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/Selenium/fluent-hc-4.2.2.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/Extentreport/bson-3.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/Extentreport/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/Extentreport/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/Extentreport/extentreports-3.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/Extentreport/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/Extentreport/gson-2.8.0.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/Extentreport/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/Extentreport/httpcore-4.4.4.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/Extentreport/httpmime-4.5.2.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/Extentreport/jsoup-1.9.2.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/Extentreport/mongodb-driver-3.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/Extentreport/mongodb-driver-core-3.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/Extentreport/extentreports-java-2.41.2/extentreports-2.41.2.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/Extentreport/extentreports-java-2.41.2/lib/ant-1.7.0.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/Extentreport/extentreports-java-2.41.2/lib/ant-launcher-1.7.0.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/Extentreport/extentreports-java-2.41.2/lib/bsh-2.0b4.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/Extentreport/extentreports-java-2.41.2/lib/bson-3.0.4.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/Extentreport/extentreports-java-2.41.2/lib/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/Extentreport/extentreports-java-2.41.2/lib/hamcrest-core-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/Extentreport/extentreports-java-2.41.2/lib/jcommander-1.48.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/Extentreport/extentreports-java-2.41.2/lib/jsoup-1.8.3.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/Extentreport/extentreports-java-2.41.2/lib/junit-4.10.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/Extentreport/extentreports-java-2.41.2/lib/mongodb-driver-3.0.4.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/Extentreport/extentreports-java-2.41.2/lib/mongodb-driver-core-3.0.4.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/Extentreport/extentreports-java-2.41.2/lib/snakeyaml-1.15.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/Extentreport/extentreports-java-2.41.2/lib/sqlite-jdbc-3.8.11.1.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/Extentreport/extentreports-java-2.41.2/lib/testng-6.9.9.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
